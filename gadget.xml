@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+    <name>504 WORDS</name>
+    <namespace>504.WOEDS</namespace>
+    <version>1.0</version>
+    <author name="h.hosein44@yahoo.com">
+        <info url="http://IQ-GAEME.TK" />
+    </author>
+    <copyright>2006</copyright>
+    <description>504 essential words</description>
+    <icons>
+      <icon height="64" width="64" src="IC.png" />
+    </icons>    
+    <hosts>
+        <host name="sidebar">
+            <base type="HTML" apiVersion="1.0.0" src="index.html" />
+            <permissions>full</permissions>
+            <platform minPlatformVersion="0.3" />
+        </host>
+    </hosts>
+</gadget>
